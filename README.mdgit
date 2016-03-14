@@ -1,0 +1,1 @@
+"# react_table"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/ik0oo/react_table.gitgit push -u origin master

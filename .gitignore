@@ -1,0 +1,7 @@
+/.idea
+/.vscode
+/node_modules
+/dist
+/bemto
+/app/resources/bower_components
+
